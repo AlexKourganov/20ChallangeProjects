@@ -113,6 +113,7 @@ button:focus{
     background-color: rgba(0, 0, 0, 0.6);
     display: none;
     position: fixed;
+    min-height: 100vh;
     top: 0;
     left: 0;
     right: 0;
